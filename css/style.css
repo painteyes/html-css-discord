@@ -7,7 +7,7 @@
 
 /*COMMON*/
 body{
-    font-family: "Whitney";
+    font-family: "Whitney", sans-serif;
 }
 
 .container{
@@ -31,7 +31,11 @@ img{
 
 .button{
     text-decoration: none;
-    border-radius: 40px
+    border-radius: 40px;
+    display: inline-block; 
+
+    /* FIX */
+    line-height: normal;
 }
 
 .small{
@@ -89,4 +93,18 @@ nav{
 
 .logo img{
     vertical-align: middle;
+}
+
+
+/*MAIN*/
+.jumbotron{
+    background-image: url("../img/jumbo.png");
+    background-size: cover;
+}
+
+.jumbotron .container{
+    width: 50%;
+    padding: 200px 0;
+    text-align:center;
+    color: white;
 }
