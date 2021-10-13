@@ -1,0 +1,92 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*COMMON*/
+body{
+    font-family: "Whitney";
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+
+.column {
+    float: left;
+}
+
+.clearfix::after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.button{
+    text-decoration: none;
+    border-radius: 40px
+}
+
+.small{
+    padding: 10px 15px;
+    font-size: 13px;    
+}
+
+.white{
+    color: black;
+    background-color: white;  
+}
+
+.dark{
+    color: white;
+    background-color: black;
+}
+
+/*HEADER*/
+header{
+    background-color: #3161e0;
+    color: white;
+    height: 80px;
+}
+
+.logo, .login{
+    width: 10%;
+}
+
+.menu{
+    width: 80%;
+    text-align: center;
+}
+
+.menu ul{
+    list-style-type: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.menu ul li a{
+text-decoration: none;
+color: inherit;
+}
+
+.login{
+    text-align: right;
+}
+
+nav{
+    line-height: 80px;
+}
+
+.logo img{
+    vertical-align: middle;
+}
