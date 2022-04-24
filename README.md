@@ -1,5 +1,5 @@
 ## About the project
-Discord-inspired website design with HTML and CSS only.
+Discord inspired web design with only HTML and CSS.
 
 ## Technologies 
 - HTML
