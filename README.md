@@ -9,7 +9,7 @@ Spotify-inspired web design with responsive layout.
 You can **[check it out here](https://painteyes.github.io/html-css-discord)** !
 
 ### Screenshot
-<img src="https://i.postimg.cc/RZP3KQLj/Spotify-Web.png"/>
+<img src="https://i.postimg.cc/q7KCxXC7/1646765864185.jpg"/>
 
 ## Contributor
 Andrea Occhipinti ( [GitHub](https://github.com/painteyes) | [LinkedIn](https://www.linkedin.com/in/occhipinti) )
