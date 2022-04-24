@@ -1,5 +1,5 @@
 ## About the project
-Spotify-inspired web design with responsive layout.
+Discord-inspired website design with HTML and CSS only.
 
 ## Technologies 
 - HTML
